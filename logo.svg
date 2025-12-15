@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#4A90E2" opacity="0.1"/>
+  
+  <!-- Main logo shape - stylized "L" combining geometric forms -->
+  <path d="M 60 50 L 60 150 L 140 150 L 140 130 L 80 130 L 80 50 Z" 
+        fill="#4A90E2" 
+        stroke="#2C5F8D" 
+        stroke-width="2"/>
+  
+  <!-- Accent circle representing design element -->
+  <circle cx="140" cy="70" r="20" fill="#E74C3C" opacity="0.9"/>
+  
+  <!-- Inner detail on circle -->
+  <circle cx="140" cy="70" r="12" fill="none" stroke="white" stroke-width="2"/>
+  
+  <!-- Small geometric accents -->
+  <rect x="95" y="85" width="30" height="30" fill="#F39C12" opacity="0.8" rx="3"/>
+  
+  <!-- Grid dots for design theme -->
+  <circle cx="70" cy="60" r="3" fill="#34495E" opacity="0.3"/>
+  <circle cx="70" cy="75" r="3" fill="#34495E" opacity="0.3"/>
+  <circle cx="70" cy="90" r="3" fill="#34495E" opacity="0.3"/>
+</svg>
